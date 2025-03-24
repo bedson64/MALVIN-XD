@@ -7,7 +7,7 @@
 
     "stack": "container",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {MALVIN-XD~BopwkBLS#qfFDTXtzdovWW3PB7-iKu-D7Dy9LYp6G2wnshXS3JPE
       "description": "Put the session-id here.",
       "required": true,
       "value": ""
@@ -66,7 +66,7 @@
     "AUTO_REPLY": {
       "description": "Make it true if you want automatic reply.",
       "required": false,
-      "value": "false"
+      "value": "true"
     }, 
 
     "AUTO_STICKER": {
@@ -78,7 +78,7 @@
     "AUTO_STATUS_SEEN": {
       "description": "Make it true for automatic status seen.",
       "required": true,
-      "value": "true"
+      "value": "false"
      }, 
 
     "AUTO_STATUS_REACT": {
