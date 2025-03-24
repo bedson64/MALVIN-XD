@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "Put the session-id here."",MALVIN-XD~BopwkBLS#qfFDTXtzdovWW3PB7-iKu-D7Dy9LYp6G2wnshXS3JPE""
       "required": true,
       "value": ""
     },  
@@ -45,7 +45,7 @@
     },  
     
     "STICKER_NAME": {
-      "description": "type your sticker pack name.",
+      "description": "type your sticker pack name.", "✦MALVIN-XD✦"
       "required": false,
       "value": "✦MALVIN-XD✦"
     },
@@ -77,13 +77,13 @@
 
     "AUTO_STATUS_SEEN": {
       "description": "Make it true for automatic status seen.",
-      "required": true,
+      "required": true, "true"
       "value": "true"
      }, 
 
     "AUTO_STATUS_REACT": {
-      "description": "make it true for automatic status reaction or like.",
-      "required": true,
+      "description": "make it true for automatic status reaction or like.", "true"
+      "required": true, 
       "value": "true"
     }, 
 
